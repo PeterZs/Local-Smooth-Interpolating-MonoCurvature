@@ -9,7 +9,6 @@ This folder is composed of three subfolders:
 - [```./matlab```](./matlab): to print the clodhoid shell (matlab)
 - [```./extern```](./extern): the external libraries used by our method
 - [```./code-gui```](./code-gui): the code with an integrated GUI (C++)
-- *coming: a folder without GUI for easier integration into your own framework*
 
 ## matlab
 
